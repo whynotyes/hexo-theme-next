@@ -143,6 +143,7 @@ social_icons:
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
 #avatar:
+avatar: http://7xstwm.com2.z0.glb.clouddn.com/icon.jpg
 
 
 # Table Of Contents in the Sidebar
